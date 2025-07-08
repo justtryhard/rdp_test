@@ -5,8 +5,8 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 # Конфигурация
 TELEGRAM_TOKEN = 'PLACE_YOUR_TOKEN_HERE'
 OWNER_CHAT_ID = PLACE_YOUR_CHAD_ID_HERE  # Ваш chat id в телеге
-RDP_IP = 'IP_адрес_RDP_сервера'
-RDP_PORT = порт
+RDP_IP = 'ENTER_IP_ADDRESS_OF_SERVER'
+RDP_PORT = PORT
 CHECK_INTERVAL = 300  # в секундах
 
 # Настройка логирования
